@@ -53,7 +53,7 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 ## 🚀 Interests
 
 * Test automation architecture.
-* * Reliability engineering.
+* Reliability engineering.
 * Full-Stack Development.
 
 ---
