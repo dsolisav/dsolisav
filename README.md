@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia, experienced in building scalable web applications and validating complex systems. Skilled in React, Next.js, TypeScript, Python (Flask/FastAPI), PostgreSQL, Docker, and Supabase. Experience developing automated UI and API tests in production environments, contributing to reliable, production-quality software. Professional working proficiency in English (C1).</h3>
+<h3 align="center">Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia</h3>
 
 - 🌱 I’m currently learning **testing frameworks like Playwright and Cypress**
 
