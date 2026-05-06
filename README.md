@@ -43,7 +43,7 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 
 ## 🎮 Industry Experience
 * Automation and validation for **streaming platforms and subscription systems** for ViX/TelevisaUnivision/Disney+.
-* QA Engineering for **AAA cross-platform videogames** (PlayStation, Xbox, Nintendo Switch) for Sony Interactive Entertainment
+* QA Engineering for **AAA cross-platform videogames** (PlayStation, Xbox, Nintendo Switch) for Sony Interactive Entertainment.
 * Full-Stack development across **frontend, backend, and cloud services** for Universidad Nacional de Colombia and many startups.
 
 ---
