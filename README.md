@@ -2,6 +2,11 @@
 
 Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia, experienced in building scalable web applications and validating complex systems.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake.svg" />
+</picture>
+
 ## 🧪 Tech Stack
 
 ### Programming Languages
