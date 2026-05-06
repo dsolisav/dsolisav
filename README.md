@@ -1,4 +1,4 @@
-# Hi, I'm David Solís 👋
+# Hi, I'm David Solís 👨‍💻
 
 Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia, experienced in building scalable web applications and validating complex systems.
 
