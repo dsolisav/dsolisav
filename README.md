@@ -12,24 +12,24 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 
 ### Test Automation
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://skillicons.dev)
-<img src="https://appiumpro.com/img/appium-symbol-color.png" height="48" /> <img src="https://i.imgur.com/9zqpXNS.png" height="48" /> <img src="https://webdriver.io/es/img/logo-webdriver-io.png" height="48" />
+[![My Automation Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://skillicons.dev)
+<img src="https://appiumpro.com/img/appium-symbol-color.png" height="48" alt="appium" /> <img src="https://i.imgur.com/9zqpXNS.png" height="48" alt="playwright"/> <img src="https://webdriver.io/es/img/logo-webdriver-io.png" height="48" alt="webdriverio" />
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)](https://skillicons.dev)
+[![My Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)](https://skillicons.dev)
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=flask,express,fastapi,supabase,firebase)](https://skillicons.dev)
+[![My Backend Skills](https://skillicons.dev/icons?i=flask,express,fastapi,supabase,firebase)](https://skillicons.dev)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
+[![My DB Skills](https://skillicons.dev/icons?i=postgresql,mysql,mongodb)](https://skillicons.dev)
 
 ### Infrastructure
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,nginx)](https://skillicons.dev)
+[![My Infrastructure Skills](https://skillicons.dev/icons?i=aws,docker,nginx)](https://skillicons.dev)
 
 ---
 
