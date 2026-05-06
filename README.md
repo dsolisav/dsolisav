@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=2000&width=435&lines=Hi!+I'm%2C+David+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=3000&width=435&lines=Hi!+I'm%2C+David+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Nice+to+meet+you)](https://git.io/typing-svg)
 
 Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia, experienced in building scalable web applications and validating complex systems.
 
