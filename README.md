@@ -62,13 +62,14 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 * GitHub: https://github.com/dsolisav
 * Email: [dsolis@unal.edu.co](mailto:dsolis@unal.edu.co)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake.svg" />
-</picture>
 ---
 
 ## 🌍 Languages
 
 * Spanish: Native
 * English: C1
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/dsolisav/dsolisav/output/github-snake.svg" />
+</picture>
