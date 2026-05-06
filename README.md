@@ -2,8 +2,6 @@
 
 Software Engineer with a B.E. in Computer Systems Engineering from Universidad Nacional de Colombia, experienced in building scalable web applications and validating complex systems.
 
----
-
 ## 🧪 Tech Stack
 
 ### Programming Languages
