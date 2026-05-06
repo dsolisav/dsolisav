@@ -34,10 +34,10 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 ## 🔍 What I Do
 
 * Build and maintain **automated UI and API test suites** for production systems, leveraging full-stack knowledge to improve coverage and reliability.
-* Validate **end-to-end user flows**, including authentication, subscriptions, and integrations across frontend and backend layers.
 * Analyze system behavior to detect **edge cases, logic errors, and regressions**, using understanding of application architecture and data flow.
 * Reproduce and document defects with **clear steps, logs, and environment context**, facilitating efficient debugging with developers.
-* Collaborate with developers in Agile teams to ensure **fast, reliable releases**, contributing with both QA and full-stack engineering perspective.
+* Develop and maintain **web applications and APIs** using modern stacks, delivering scalable and maintainable solutions.
+* Work within Agile teams to deliver **reliable features and stable releases**, contributing from both QA automation and full-stack engineering perspectives.
 
 ---
 
