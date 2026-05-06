@@ -10,7 +10,7 @@ Software Engineer with a B.E. in Computer Systems Engineering from Universidad N
 
 ### Test Automation
 
-[![My Automation Skills](https://skillicons.dev/icons?i=selenium,cypress)](https://skillicons.dev)
+[![My Automation Skills](https://skillicons.dev/icons?i=selenium,cypress&theme=light)](https://skillicons.dev)
 <img src="https://appiumpro.com/img/appium-symbol-color.png" height="48" alt="appium" /> <img src="https://i.imgur.com/9zqpXNS.png" height="48" alt="playwright"/> <img src="https://webdriver.io/es/img/logo-webdriver-io.png" height="48" alt="webdriverio" />
 
 ### Frontend
