@@ -8,11 +8,6 @@ I'm a Software Engineer with a B.E. in Computer Systems Engineering from Univers
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,dart)](https://skillicons.dev)
 
-### Test Automation
-
-[![My Automation Skills](https://skillicons.dev/icons?i=selenium,cypress&theme=light)](https://skillicons.dev)
-<img src="https://appiumpro.com/img/appium-symbol-color.png" height="48" alt="appium" /> <img src="https://i.imgur.com/9zqpXNS.png" height="48" alt="playwright"/> <img src="https://webdriver.io/es/img/logo-webdriver-io.png" height="48" alt="webdriverio" />
-
 ### Frontend
 
 [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs)](https://skillicons.dev)
@@ -20,6 +15,11 @@ I'm a Software Engineer with a B.E. in Computer Systems Engineering from Univers
 ### Backend
 
 [![My Backend Skills](https://skillicons.dev/icons?i=flask,express,fastapi,supabase,firebase)](https://skillicons.dev)
+
+### Test Automation
+
+[![My Automation Skills](https://skillicons.dev/icons?i=selenium,cypress&theme=light)](https://skillicons.dev)
+<img src="https://appiumpro.com/img/appium-symbol-color.png" height="48" alt="appium" /> <img src="https://i.imgur.com/9zqpXNS.png" height="48" alt="playwright"/> <img src="https://webdriver.io/es/img/logo-webdriver-io.png" height="48" alt="webdriverio" />
 
 ### Databases
 
