@@ -31,28 +31,27 @@ I'm a Software Engineer with a B.E. in Computer Systems Engineering from Univers
 
 ---
 
-## 🔍 What I Do
-
-* Build and maintain **automated UI and API test suites** for production systems, leveraging full-stack knowledge to improve coverage and reliability.
-* Analyze system behavior to detect **edge cases, logic errors, and regressions**, using understanding of application architecture and data flow.
-* Reproduce and document defects with **clear steps, logs, and environment context**, facilitating efficient debugging with developers.
-* Develop and maintain **web applications and APIs** using modern stacks, delivering scalable and maintainable solutions.
-* Work within Agile teams to deliver **reliable features and stable releases**, contributing from both QA automation and full-stack engineering perspectives.
+## 💻 What I Do
+* Develop scalable **full-stack applications** using TypeScript, React, Next.js, Python, PostgreSQL, and cloud-native tooling.
+* Design and implement **backend services, APIs, and data-driven systems** focused on performance, maintainability, and reliability.
+* Build **testing and validation frameworks** for complex production environments, including streaming platforms, telecom integrations, and cross-platform applications.
+* Deploy and maintain applications using **Docker, AWS, Nginx, and modern CI/CD-oriented workflows**.
+* Create intuitive user experiences through **frontend engineering, state management, and UI/UX design systems**.
 
 ---
-
 ## ⚙️ Industry Experience
-* Automation and validation for **streaming platforms and subscription systems** for ViX/TelevisaUnivision/Disney+.
-* QA Engineering for **AAA cross-platform videogames** (PlayStation, Xbox, Nintendo Switch) for Sony Interactive Entertainment.
-* Full-Stack development across **frontend, backend, and cloud services** for Universidad Nacional de Colombia and many startups.
+* Built and maintained production software for **ViX, TelevisaUnivision, and Disney+**, contributing to subscription systems, authentication flows, telecom integrations, and platform reliability.
+* Developed SaaS platform features at **Suuper** using Next.js, Supabase, and cloud observability tooling.
+* Engineered academic and institutional platforms at **Universidad Nacional de Colombia**, including geospatial visualization systems and large-scale faculty web platforms.
+* Contributed to **AAA cross-platform videogame validation** for Sony Interactive Entertainment across PlayStation, Xbox, and Nintendo Switch ecosystems.
 
 ---
-
 ## 🚀 Interests
-
-* Test automation architecture.
-* Reliability engineering.
-* Full-Stack Development.
+* Full-stack engineering
+* Distributed systems and cloud infrastructure
+* System reliability and observability
+* Developer tooling and automation
+* UI/UX engineering
 
 ---
 
